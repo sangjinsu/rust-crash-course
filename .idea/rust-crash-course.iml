@@ -7,10 +7,12 @@
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main_point/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/types/target" />
       <excludeFolder url="file://$MODULE_DIR$/main_point/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
