@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/closures/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/invaders/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/types/target" />
@@ -17,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/structs/target" />
       <excludeFolder url="file://$MODULE_DIR$/closures/target" />
       <excludeFolder url="file://$MODULE_DIR$/threads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/invaders/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
